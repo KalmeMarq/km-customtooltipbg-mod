@@ -1,0 +1,16 @@
+{
+  "enabled": false,
+  "texture": "kmcustomtooltipbg:default_tooltip_bg.png",
+  "uv": [0, 0],
+  "uv_size": [16, 16],
+  "nineslice_size": 6,
+  "base_size": [16, 16]
+}
+
+// Using the default_tooltip_bg or you can just enabled: false to use the vanilla gradient method
+//"enabled": true,
+//"texture": "kmcustomtooltipbg:default_tooltip_bg.png",
+//"uv": [0, 0],
+//"uv_size": [16, 16],
+//"nineslice_size": [6, 6, 6, 6],
+//"base_size": [16, 16]
