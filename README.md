@@ -1,4 +1,4 @@
-# KM Custom Tooltip Background Mod (Fabric)
+# KM Custom Tooltip Background Mod (1.19 Fabric)
 
 Allows you to change the tooltip background through a json file ("assets/kmcustomtooltipbg/tooltip_background.json")
 
